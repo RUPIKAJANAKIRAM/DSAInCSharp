@@ -1,0 +1,14 @@
+/Users/pikas/Desktop/Programming/C#/bin/Debug/net9.0/C#
+/Users/pikas/Desktop/Programming/C#/bin/Debug/net9.0/C#.deps.json
+/Users/pikas/Desktop/Programming/C#/bin/Debug/net9.0/C#.runtimeconfig.json
+/Users/pikas/Desktop/Programming/C#/bin/Debug/net9.0/C#.dll
+/Users/pikas/Desktop/Programming/C#/bin/Debug/net9.0/C#.pdb
+/Users/pikas/Desktop/Programming/C#/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pikas/Desktop/Programming/C#/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/Users/pikas/Desktop/Programming/C#/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/Users/pikas/Desktop/Programming/C#/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/Users/pikas/Desktop/Programming/C#/obj/Debug/net9.0/C#.dll
+/Users/pikas/Desktop/Programming/C#/obj/Debug/net9.0/refint/C#.dll
+/Users/pikas/Desktop/Programming/C#/obj/Debug/net9.0/C#.pdb
+/Users/pikas/Desktop/Programming/C#/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/Users/pikas/Desktop/Programming/C#/obj/Debug/net9.0/ref/C#.dll
